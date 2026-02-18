@@ -9,7 +9,7 @@
 I deliver high performance beautiful and intutive software built in low-level programming languages to maximise performance without compromising on functionnality. 
 
 # My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=gualidan&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gualidan&theme=gruvbox&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 # My tech stack
 
