@@ -1,8 +1,5 @@
 ## Hi there 🤪 I'm Gualidan
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gualidan)](https://git.io/streak-stats)
-
-
 - I'm a Rust, C++, C, Python and Java developer and also a game dev. 
 - 🔭 I’m currently working on porting a modified version of Unreal Engine focused on maximum performance without compromising on visuals to Linux as well as its RT features relying on Direct X. Also I started working on GSWM my own Wayland Compositor built in Rust. Altough these are my main occupation I also contribute to various open source projects wich I love such as Noctalia-Shell a UI for Linux compositors based on Quickshell. 
 - 🌱 I’m currently learning Vulkan for my engine porting projects as well as the Web Technologies and QML.
@@ -10,6 +7,9 @@
 
 ## What I deliver
 I deliver high performance beautiful and intutive software built in low-level programming languages to maximise performance without compromising on functionnality. 
+
+# My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=gualidan&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 # My tech stack
 
