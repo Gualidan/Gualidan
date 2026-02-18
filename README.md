@@ -1,6 +1,6 @@
 ## Hi there 🤪 I'm Gualidan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gualidan)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gualidan)](https://git.io/streak-stats)
 
 
 - I'm a Rust, C++, C, Python and Java developer and also a game dev. 
