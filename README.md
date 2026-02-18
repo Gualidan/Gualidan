@@ -1,5 +1,8 @@
 ## Hi there 🤪 I'm Gualidan
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gualidan)
+
+
 - I'm a Rust, C++, C, Python and Java developer and also a game dev. 
 - 🔭 I’m currently working on porting a modified version of Unreal Engine focused on maximum performance without compromising on visuals to Linux as well as its RT features relying on Direct X. Also I started working on GSWM my own Wayland Compositor built in Rust. Altough these are my main occupation I also contribute to various open source projects wich I love such as Noctalia-Shell a UI for Linux compositors based on Quickshell. 
 - 🌱 I’m currently learning Vulkan for my engine porting projects as well as the Web Technologies and QML.
