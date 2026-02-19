@@ -9,13 +9,13 @@
 I deliver high performance beautiful and intutive software built in low-level programming languages to maximise performance without compromising on functionnality. 
 
 # My Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gualidan&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gualidan&theme=highcontrast)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gualidan&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gualidan&theme=highcontrast)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gualidan&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gualidan&theme=highconstrast)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gualidan&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gualidan&theme=highcontrast)
 
 # My tech stack
 
