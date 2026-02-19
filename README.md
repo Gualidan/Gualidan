@@ -17,8 +17,6 @@ I deliver high performance beautiful and intutive software built in low-level pr
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gualidan&theme=highcontrast)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gualisoft &theme=highcontrast)
-
 # My tech stack
 
 - The languages: C, C++, Rust, Python, Java
