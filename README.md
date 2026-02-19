@@ -13,7 +13,7 @@ I deliver high performance beautiful and intutive software built in low-level pr
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gualidan&theme=highcontrast)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gualidan&theme=highconstrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gualidan&theme=highcontrast)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gualidan&theme=highcontrast)
 
