@@ -9,7 +9,13 @@
 I deliver high performance beautiful and intutive software built in low-level programming languages to maximise performance without compromising on functionnality. 
 
 # My Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gualidan&theme=gruvbox&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gualidan&theme=holi)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gualidan&theme=holi)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gualidan&theme=holi)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gualidan&theme=holi)
 
 # My tech stack
 
