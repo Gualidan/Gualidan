@@ -20,7 +20,7 @@ I deliver high performance beautiful and intutive software built in low-level pr
 # My tech stack
 
 - The languages: C, C++, Rust, Python, Java
-- My OS: CachyOS (ARCH BTW)
+- My OS: Gentoo Linux
 - IDE: Jetbrains IDEs, Zed and Neovim
 - And most importantly I rely on enthusiasm curiosity and Discord as fuel for my projects.
 - Source Control: Git
