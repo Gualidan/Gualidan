@@ -1,9 +1,9 @@
 ## Hi there 🤪 I'm Gualidan
 
-- I'm a Rust, C++, C, Python and Java developer and also a game dev. 
-- 🔭 I’m currently working on porting a modified version of Unreal Engine focused on maximum performance without compromising on visuals to Linux as well as its RT features relying on Direct X. Also I started working on GSWM my own Wayland Compositor built in Rust. Altough these are my main occupation I also contribute to various open source projects wich I love such as Noctalia-Shell a UI for Linux compositors based on Quickshell. 
-- 🌱 I’m currently learning Vulkan for my engine porting projects as well as the Web Technologies and QML.
-- For 2026 my goals are to learn Vulkan, Contribute to the most awesome open source project: The Linux Kernel and finally become a better game developer and learn.
+- I'm a Rust, C++, C, Python developer and also a game dev. 
+- 🔭 I’m currently working on GSWM my own Wayland Compositor built in Rust. Altough these are my main occupation I also contribute to various open source projects wich I love such as Noctalia-Shell a UI for Linux compositors based on Quickshell. 
+- 🌱 I’m currently learning Rust in detail for my WM projects and more I'm also learning QML.
+- For 2026 my goals are to ontribute to the most awesome open source project: The Linux Kernel via the Rust for Linux project and finally become a better developer and learn more about programming and tech.
 
 ## What I deliver
 I deliver high performance beautiful and intutive software built in low-level programming languages to maximise performance without compromising on functionnality. 
@@ -19,16 +19,12 @@ I deliver high performance beautiful and intutive software built in low-level pr
 
 # My tech stack
 
-- The languages: C, C++, Rust, Python, Java
-- My OS: Gentoo Linux
-- IDE: Jetbrains IDEs, Zed and Neovim
-- And most importantly I rely on enthusiasm curiosity and Discord as fuel for my projects.
+- The languages: C, C++, Rust, Python
+- My OS: Arch Linux
+- IDE: Neovim
+- And most importantly I rely on enthusiasm curiosity and Fluxer as fuel for my projects.
 - Source Control: Git
 
 # My future tech stack
 
-- Languages I want to learn: JS, HTML, CSS and Vulkan
-
-# What I enjoy 
-
-- I Love Gaming I play The Finals and Others and For Some Reason I Sometimes Write With Capital Letters Even Tough It's Not The Start Of a Sentence. 
+- Languages I want to learn: JS, HTML, CSS
