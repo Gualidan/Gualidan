@@ -1,3 +1,6 @@
+## MY PERSONNAL PROJECTS WILL NOW BE ON CODEBERG
+https://codeberg.org/Gualidan
+
 ## Hi there 🤪 I'm Gualidan
 
 - I'm a Rust, C++, C, Python developer and also a game dev. 
