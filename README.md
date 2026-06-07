@@ -2,9 +2,9 @@
 
 ## Hi there 🤪 I'm Gualidan
 
-- I'm a Rust, C++, C, Python developer and also a game dev. 
-- 🔭 I’m currently working on GSWM my own Wayland Compositor built in Rust. Altough these are my main occupation I also contribute to various open source projects wich I love such as Noctalia-Shell a UI for Linux compositors based on Quickshell. 
-- 🌱 I’m currently learning Rust in detail for my WM projects and more I'm also learning QML.
+- I'm a C++, C, Python developer and also a game dev. 
+- 🔭 I’m currently learning rust and starting to work on Positron a desktop app for Mistral AI's Vibe written in rust with the Iced toolkit. 
+- 🌱 I’m currently learning Rust in detail for my projects. 
 - For 2026 my goals are to contribute to the most awesome open source project: The Linux Kernel via the Rust for Linux project and finally become a better developer and learn more about programming and tech.
 
 ## What I deliver
