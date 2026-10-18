@@ -1,5 +1,7 @@
 Hi there 👋 I’m Gualidan a Rust 🦀 Developer, passionate about Linux 🐧 and Open Source. 
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gualidan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ```rust
 match interests {
     Interests::Rust => {
@@ -15,3 +17,5 @@ match interests {
         "I have been a Linux user since 2024 (right now running Fedora, by the way)."
     ),
 }
+```
+
